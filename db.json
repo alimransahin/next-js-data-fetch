@@ -1,0 +1,44 @@
+{
+    "posts":[
+
+  {
+    "id": 1,
+    "title": "The Art of Programming",
+    "description": "Programming is both an art and a science. It requires creativity, problem-solving skills, and attention to detail. Whether you're writing code for a simple application or a complex system, the way you approach programming can greatly impact the outcome.",
+    "likes_count": 150
+  },
+  {
+    "id": 2,
+    "title": "Exploring the Depths of Space",
+    "description": "Space, the final frontier. It's a vast and mysterious expanse that has captured the imagination of humanity for centuries. From the twinkling lights of distant stars to the swirling clouds of colorful nebulae, there's always something new and exciting to discover in the cosmos.",
+    "likes_count": 230
+  },
+  {
+    "id": 3,
+    "title": "The Joy of Cooking",
+    "description": "Cooking is more than just a necessity – it's a form of self-expression and creativity. Whether you're following a family recipe or experimenting with new ingredients, there's a certain joy that comes from preparing a delicious meal from scratch.",
+    "likes_count": 320
+  },
+  {
+    "id": 4,
+    "title": "The Power of Positive Thinking",
+    "description": "Positive thinking can have a profound impact on our lives. By maintaining an optimistic outlook and focusing on the good things, we can overcome challenges, build resilience, and cultivate a sense of inner peace and happiness.",
+    "likes_count": 420
+  },
+  {
+    "id": 5,
+    "title": "Unlocking the Secrets of the Mind",
+    "description": "The human mind is a complex and fascinating entity. From our thoughts and emotions to our memories and dreams, there's still so much we don't fully understand about how the mind works. But through research and exploration, we continue to unlock its secrets.",
+    "likes_count": 280
+  },
+  {
+    "id": 6,
+    "title": "The Beauty of Nature",
+    "description": "Nature is full of wonders – from the majestic mountains to the serene lakes, from the vibrant forests to the delicate flowers. Spending time in nature not only allows us to appreciate its beauty but also helps to rejuvenate our minds and spirits.",
+    "likes_count": 180
+  }
+
+
+]
+
+}
